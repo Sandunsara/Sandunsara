@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm a Student at **NSBM Green University**
 
-- 👨‍💻 All of my projects are available at [https://sandunsara.github.io/My_Portfolio/](https://sandunsara.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [Click ](https://github.com/Sandunsara?tab=repositories)
 
 - 💬 Ask me about **Java ,C & Python**
 
