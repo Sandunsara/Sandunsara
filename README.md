@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **coll me as sandun**
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/nonmadu sandunsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nonmadu sandunsara" height="30" width="40" /></a>
 <a href="https://fb.com/sa du n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sa du n" height="30" width="40" /></a>
