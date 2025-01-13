@@ -12,13 +12,13 @@
 
 - 👨‍🎓 I'm **Univercity Student**
 
-- 🌱 I’m currently learning **Java & Python**
-
 - 👨‍💻 I'm a Student at **NSBM Green University**
 
-- 👨‍💻 All of my projects are available at [Click ](https://github.com/Sandunsara?tab=repositories)
-
+- 🌱 I’m currently learning **Java & Python**
+  
 - 💬 Ask me about **Java ,C & Python**
+
+- 📄 All of my projects are available at [Click Me!](https://github.com/Sandunsara?tab=repositories)
 
 - 📫 How to reach me **sandunsara2002@gmail.com**
 
