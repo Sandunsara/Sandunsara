@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandunsara&label=Profile%20views&color=0e75b6&style=flat" alt="sandunsara" /> </p>
 
-[![GitHub deepshikhayadav](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=black)](https://github.com/deepshikhayadav)
+[![GitHub sandunsara](https://img.shields.io/github/followers/sandunsara?label=follow&style=social&logoColor=black)](https://github.com/sandunsara)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
