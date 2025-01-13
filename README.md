@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nonmadu Sandunsara</h1>
+<h1 align="center">Hi 👋, I'm Sandunsara</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
 [![GitHub sandunsara](https://img.shields.io/github/followers/sandunsara?label=follow&style=social&logoColor=black)](https://github.com/sandunsara)
