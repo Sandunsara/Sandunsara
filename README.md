@@ -29,6 +29,7 @@
 <a href="https://lk.linkedin.com/in/nonmadu-sandunsara-0b9a02257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nonmadu sandunsara" height="30" width="40" /></a>
 <a href="https://web.facebook.com/n.sandunsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sa du n" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sandunsara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandunsara" height="30" width="40" /></a>
+<a href="https://x.com/sandunsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandunsara" height="30" width="40" /></a> 
 <a href="https://github.com/Sandunsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sandunsara" height="30" width="40" /></a> 
 <a href="https://wa.me/+940767997188?text=Hello" target="blank"><img align="center" src="https://github.com/Sandunsara/My_Portfolio/blob/main/img/whatsapp.png" alt="sandunsara" height="30" width="30" /></a> 
 </p>
