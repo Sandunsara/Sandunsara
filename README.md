@@ -1,7 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://github.com/Sandunsara/Sandunsara/blob/e26dfda542f8b774ffe17b9ad11293535a4d5a94/setup.jpg" width="900" height="300"/>
-</div>
 <h1 align="center">Hi 👋, I'm Sandunsara</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
